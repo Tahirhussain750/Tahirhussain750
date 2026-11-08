@@ -97,8 +97,8 @@ For a project, send the brief, reference images and deadline — I'll reply with
 
 ### 📊 GitHub stats
 
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahirhussain750&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahirhussain750&layout=compact&theme=dark&hide_border=true)
+![Tahir's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tahirhussain750&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tahirhussain750&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahirhussain750&theme=dark&hide_border=true)
 
